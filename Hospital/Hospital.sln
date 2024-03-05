@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital.Domen", "..\Hospital.Domen\Hospital.Domen.csproj", "{DEA60FEF-0F29-4118-92D5-6102DA69910F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hospital.Domen", "..\Hospital.Domen\Hospital.Domen.csproj", "{DEA60FEF-0F29-4118-92D5-6102DA69910F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital.WPF", "..\Hospital.WPF\Hospital.WPF.csproj", "{656A9B52-0BDF-4CB3-B91F-ED7C1E917AFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hospital.WPF", "..\Hospital.WPF\Hospital.WPF.csproj", "{656A9B52-0BDF-4CB3-B91F-ED7C1E917AFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital.Infrastructure", "Hospital.Infrastructure\Hospital.Infrastructure.csproj", "{37C27001-F4A6-428C-B386-F84692854048}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital.Application", "Hospital.Application\Hospital.Application.csproj", "{2702FB08-88D7-4AB6-AACC-1DF7C7E12ECC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{656A9B52-0BDF-4CB3-B91F-ED7C1E917AFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{656A9B52-0BDF-4CB3-B91F-ED7C1E917AFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{656A9B52-0BDF-4CB3-B91F-ED7C1E917AFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37C27001-F4A6-428C-B386-F84692854048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37C27001-F4A6-428C-B386-F84692854048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37C27001-F4A6-428C-B386-F84692854048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37C27001-F4A6-428C-B386-F84692854048}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2702FB08-88D7-4AB6-AACC-1DF7C7E12ECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2702FB08-88D7-4AB6-AACC-1DF7C7E12ECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2702FB08-88D7-4AB6-AACC-1DF7C7E12ECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2702FB08-88D7-4AB6-AACC-1DF7C7E12ECC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
