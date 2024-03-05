@@ -1,0 +1,11 @@
+Z:\Hospital\Hospital.Domen\bin\Debug\net6.0\Hospital.Domen.deps.json
+Z:\Hospital\Hospital.Domen\bin\Debug\net6.0\Hospital.Domen.dll
+Z:\Hospital\Hospital.Domen\bin\Debug\net6.0\Hospital.Domen.pdb
+Z:\Hospital\Hospital.Domen\obj\Debug\net6.0\Hospital.Domen.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Hospital\Hospital.Domen\obj\Debug\net6.0\Hospital.Domen.AssemblyInfoInputs.cache
+Z:\Hospital\Hospital.Domen\obj\Debug\net6.0\Hospital.Domen.AssemblyInfo.cs
+Z:\Hospital\Hospital.Domen\obj\Debug\net6.0\Hospital.Domen.csproj.CoreCompileInputs.cache
+Z:\Hospital\Hospital.Domen\obj\Debug\net6.0\Hospital.Domen.dll
+Z:\Hospital\Hospital.Domen\obj\Debug\net6.0\refint\Hospital.Domen.dll
+Z:\Hospital\Hospital.Domen\obj\Debug\net6.0\Hospital.Domen.pdb
+Z:\Hospital\Hospital.Domen\obj\Debug\net6.0\ref\Hospital.Domen.dll
