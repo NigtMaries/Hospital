@@ -8,8 +8,14 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hospital.WPF", "..\Hospital.WPF\Hospital.WPF.csproj", "{656A9B52-0BDF-4CB3-B91F-ED7C1E917AFF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital.Infrastructure", "Hospital.Infrastructure\Hospital.Infrastructure.csproj", "{37C27001-F4A6-428C-B386-F84692854048}"
+	ProjectSection(ProjectDependencies) = postProject
+		{DEA60FEF-0F29-4118-92D5-6102DA69910F} = {DEA60FEF-0F29-4118-92D5-6102DA69910F}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital.Application", "Hospital.Application\Hospital.Application.csproj", "{2702FB08-88D7-4AB6-AACC-1DF7C7E12ECC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{37C27001-F4A6-428C-B386-F84692854048} = {37C27001-F4A6-428C-B386-F84692854048}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
