@@ -10,4 +10,5 @@ namespace Hospital.Domen.Models
         public DateTime UpdateAt { get; set; } = DateTime.Now;
     }
 
+
 }
